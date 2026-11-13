@@ -9,7 +9,7 @@
 | 技能 | 独立文件 | 适合处理什么 |
 | --- | --- | --- |
 | 会议纪要与行动项 | [meeting-minutes](skills/meeting-minutes/SKILL.md) | 从会议转写、笔记中提取决策与行动项，区分已确认变更和待确认冲突 |
-| 工作周报 | [weekly-report](skills/weekly-report/SKILL.md) | 将工作日志整理为成果、进行中事项、风险和下周计划 |
+| 工作周报 | [weekly-report](skills/weekly-report/SKILL.md) | 将工作日志整理为成果、进行中事项、风险和下周计划，区分新增量与累计量 |
 | 商务邮件草稿 | [business-email](skills/business-email/SKILL.md) | 起草进度同步、催办、邀约、婉拒等邮件 |
 | 文章选题与大纲 | [article-outline](skills/article-outline/SKILL.md) | 明确读者问题、中心观点、章节结构与材料缺口 |
 | 多平台内容改写 | [content-repurpose](skills/content-repurpose/SKILL.md) | 将原文改写成公众号摘要、社交笔记、短视频口播等 |
